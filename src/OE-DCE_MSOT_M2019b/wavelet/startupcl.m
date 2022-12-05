@@ -1,1 +1,0 @@
-function startupcl(param1, value1, param2, value2, param3, value3)

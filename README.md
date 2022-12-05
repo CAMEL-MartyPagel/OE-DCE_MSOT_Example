@@ -1,2 +1,2 @@
-# OE-DCE_MSOT_Matlab
-The code analyzes both OE and DCE MSOT Data acquired on iThera Invision and reconstructed on ViewMSOT software.
+# OE-DCE_MSOT_Example
+Sample data and example results to be used with the [OE-DCE_MSOT_Matlab](https://github.com/CAMEL-MartyPagel/OE-DCE_MSOT_Matlab) code.
